@@ -1,8 +1,8 @@
 resolusi tahun depan
-  -bisa wisduda
   -bisa react js
   -bisa react-native
   -bisa laravel
   -bisa codeigniter
   -bisa github
   -bisa php
+  -bisa node js
