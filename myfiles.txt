@@ -3,5 +3,5 @@ resolusi tahun depan
   -bisa react js
   -bisa react-native
   -bisa laravel
-  
+  -bisa codeigniter
   
