@@ -6,3 +6,4 @@ resolusi tahun depan
   -bisa github
   -bisa php
   -bisa node js
+  -bisa vue js
