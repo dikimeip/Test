@@ -5,4 +5,5 @@ resolusi tahun depan
   -bisa codeigniter
   -bisa github
   -bisa php
+  -bisa laravel lumen
   -bisa vue js
